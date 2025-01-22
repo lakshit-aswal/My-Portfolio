@@ -55,9 +55,8 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-start mb-16">
           <div>
             <p className="text-gray-600 mb-6">
-              I am a certified Azure Data Engineer Associate and Azure Fabric Data Analytics Engineer, 
-              with 2.7 years of experience designing and implementing robust data solutions. My expertise 
-              lies in building and optimizing scalable data pipelines, transforming complex datasets, 
+              I am a certified Azure Data Engineer Associate with 3 years of experience designing and implementing robust data solutions. 
+              My expertise lies in building and optimizing scalable data pipelines, transforming complex datasets, 
               and ensuring seamless data integration for enterprise systems.
             </p>
             <p className="text-gray-600 mb-8">
